@@ -6,6 +6,7 @@
 [LAB-6] (https://github.com/2203A51024/AIML-BATCH-13/blob/main/LAB-06.ipynb)  
 [LAB-7] (https://github.com/2203A51024/AIML-BATCH-13/blob/main/Lab-07.ipynb)  
 [LAB-8] (https://github.com/2203A51024/AIML-BATCH-13/blob/main/Lab-08.ipynb)  
+[LAB-9] (https://github.com/2203A51024/AIML-BATCH-13/blob/main/Lab-09.ipynb)
 
 
 
