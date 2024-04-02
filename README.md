@@ -3,5 +3,7 @@
 [LAB-3] (https://github.com/2203A51024/AIML-BATCH-13/blob/main/Lab-03.ipynb)  
 [LAB-4] (https://github.com/2203A51024/AIML-BATCH-13/blob/main/LAB-04.ipynb)  
 [LAB-5] (https://github.com/2203A51024/AIML-BATCH-13/blob/main/Lab-05.ipynb)  
+[LAB-6] (https://github.com/2203A51024/AIML-BATCH-13/blob/main/LAB-06.ipynb)  
+
 
 
